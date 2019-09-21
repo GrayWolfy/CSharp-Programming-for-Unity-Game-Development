@@ -1,5 +1,5 @@
 ﻿using System;
-
+// constant exercise
 namespace Exercise2
 {
     class Program
